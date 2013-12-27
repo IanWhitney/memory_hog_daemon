@@ -1,0 +1,253 @@
+# Logfile created on 2013-12-27 11:09:32 -0600 by logger.rb/31641
+2013-12-27 11:09:32.585237 memory_hog(67862) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 11:09:32.585324 memory_hog(67862) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 11:09:32.585403 memory_hog(67862) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 11:09:32.585476 memory_hog(67862) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 11:09:32.585546 memory_hog(67862) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 11:09:32.585608 memory_hog(67862) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 11:09:32.587233 memory_hog(67862) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 11:09:32.588044 memory_hog(67862) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 11:10:03.817679 memory_hog(67862) [DEBUG] memory_hog-daemon.rb:55: PID: 67862 has size 256552
+2013-12-27 11:10:33.775871 memory_hog(67862) [DEBUG] memory_hog-daemon.rb:55: PID: 67862 has size 439784
+2013-12-27 11:11:03.804030 memory_hog(67862) [DEBUG] memory_hog-daemon.rb:55: PID: 67862 has size 601800
+2013-12-27 11:11:14.161919 memory_hog(67862) [INFO] [daemon-kit]: Running signal traps for INT
+2013-12-27 11:11:14.162088 memory_hog(67862) [INFO] [daemon-kit]: Running shutdown hooks
+2013-12-27 11:11:14.162228 memory_hog(67862) [WARN] [daemon-kit]: Shutting down memory_hog
+2013-12-27 11:14:46.215068 memory_hog(68138) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 11:14:46.215207 memory_hog(68138) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 11:14:46.215278 memory_hog(68138) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 11:14:46.215351 memory_hog(68138) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 11:14:46.215423 memory_hog(68138) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 11:14:46.215486 memory_hog(68138) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 11:14:46.217014 memory_hog(68138) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 11:14:46.217785 memory_hog(68138) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 11:15:16.660119 memory_hog(68138) [DEBUG] memory_hog-daemon.rb:62: PID: 68138 has size 20424
+2013-12-27 11:15:46.758695 memory_hog(68138) [DEBUG] memory_hog-daemon.rb:62: PID: 68138 has size 20460
+2013-12-27 11:16:05.440615 memory_hog(68138) [INFO] [daemon-kit]: Running signal traps for INT
+2013-12-27 11:16:05.440935 memory_hog(68138) [INFO] [daemon-kit]: Running shutdown hooks
+2013-12-27 11:16:05.441068 memory_hog(68138) [WARN] [daemon-kit]: Shutting down memory_hog
+2013-12-27 11:16:15.844605 memory_hog(68190) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 11:16:15.844727 memory_hog(68190) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 11:16:15.844803 memory_hog(68190) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 11:16:15.844866 memory_hog(68190) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 11:16:15.844932 memory_hog(68190) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 11:16:15.844993 memory_hog(68190) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 11:16:15.846649 memory_hog(68190) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 11:16:15.847442 memory_hog(68190) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 11:16:47.183473 memory_hog(68190) [DEBUG] memory_hog-daemon.rb:62: PID: 68190 has size 20400
+2013-12-27 11:17:17.320075 memory_hog(68190) [DEBUG] memory_hog-daemon.rb:62: PID: 68190 has size 20436
+2013-12-27 11:17:47.196213 memory_hog(68190) [DEBUG] memory_hog-daemon.rb:62: PID: 68190 has size 20452
+2013-12-27 11:18:17.165096 memory_hog(68190) [DEBUG] memory_hog-daemon.rb:62: PID: 68190 has size 20480
+2013-12-27 11:18:18.15808 memory_hog(68190) [INFO] [daemon-kit]: Running signal traps for INT
+2013-12-27 11:18:18.16065 memory_hog(68190) [INFO] [daemon-kit]: Running shutdown hooks
+2013-12-27 11:18:18.16290 memory_hog(68190) [WARN] [daemon-kit]: Shutting down memory_hog
+2013-12-27 11:18:31.783879 memory_hog(68259) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 11:18:31.784004 memory_hog(68259) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 11:18:31.784087 memory_hog(68259) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 11:18:31.784150 memory_hog(68259) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 11:18:31.784233 memory_hog(68259) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 11:18:31.784294 memory_hog(68259) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 11:18:31.785799 memory_hog(68259) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 11:18:31.786577 memory_hog(68259) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 11:19:03.202849 memory_hog(68259) [DEBUG] memory_hog-daemon.rb:62: PID: 68259 has size 20976
+2013-12-27 11:19:33.323374 memory_hog(68259) [DEBUG] memory_hog-daemon.rb:62: PID: 68259 has size 20996
+2013-12-27 11:20:02.979800 memory_hog(68259) [DEBUG] memory_hog-daemon.rb:62: PID: 68259 has size 21028
+2013-12-27 11:20:05.983378 memory_hog(68259) [INFO] [daemon-kit]: Running signal traps for INT
+2013-12-27 11:20:05.983515 memory_hog(68259) [INFO] [daemon-kit]: Running shutdown hooks
+2013-12-27 11:20:05.983615 memory_hog(68259) [WARN] [daemon-kit]: Shutting down memory_hog
+2013-12-27 11:20:13.325291 memory_hog(68329) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 11:20:13.325410 memory_hog(68329) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 11:20:13.325491 memory_hog(68329) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 11:20:13.325563 memory_hog(68329) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 11:20:13.325637 memory_hog(68329) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 11:20:13.325697 memory_hog(68329) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 11:20:13.327216 memory_hog(68329) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 11:20:13.327988 memory_hog(68329) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 11:22:46.791508 memory_hog(68329) [INFO] [daemon-kit]: Running signal traps for INT
+2013-12-27 11:22:46.791677 memory_hog(68329) [INFO] [daemon-kit]: Running shutdown hooks
+2013-12-27 11:22:46.791862 memory_hog(68329) [WARN] [daemon-kit]: Shutting down memory_hog
+2013-12-27 11:23:04.305782 memory_hog(68443) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 11:23:04.305948 memory_hog(68443) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 11:23:04.306047 memory_hog(68443) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 11:23:04.306132 memory_hog(68443) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 11:23:04.306220 memory_hog(68443) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 11:23:04.306305 memory_hog(68443) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 11:23:04.308681 memory_hog(68443) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 11:23:04.309765 memory_hog(68443) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 11:29:39.225764 memory_hog(68443) [INFO] [daemon-kit]: Running signal traps for INT
+2013-12-27 11:29:39.225986 memory_hog(68443) [INFO] [daemon-kit]: Running shutdown hooks
+2013-12-27 11:29:39.226136 memory_hog(68443) [WARN] [daemon-kit]: Shutting down memory_hog
+2013-12-27 11:30:09.563869 memory_hog(68567) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 11:30:09.563997 memory_hog(68567) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 11:30:09.564078 memory_hog(68567) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 11:30:09.564145 memory_hog(68567) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 11:30:09.564228 memory_hog(68567) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 11:30:09.564288 memory_hog(68567) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 11:30:09.565831 memory_hog(68567) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 11:30:09.566646 memory_hog(68567) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 11:30:40.824204 memory_hog(68567) [DEBUG] memory_hog-daemon.rb:61: Run at 2013-12-27 11:30:40 -0600
+2013-12-27 11:31:11.97849 memory_hog(68567) [DEBUG] memory_hog-daemon.rb:61: Run at 2013-12-27 11:31:11 -0600
+2013-12-27 11:31:41.122730 memory_hog(68567) [DEBUG] memory_hog-daemon.rb:61: Run at 2013-12-27 11:31:41 -0600
+2013-12-27 11:32:10.914041 memory_hog(68567) [DEBUG] memory_hog-daemon.rb:61: Run at 2013-12-27 11:32:10 -0600
+2013-12-27 11:32:41.15560 memory_hog(68567) [DEBUG] memory_hog-daemon.rb:61: Run at 2013-12-27 11:32:41 -0600
+2013-12-27 11:33:10.815545 memory_hog(68567) [DEBUG] memory_hog-daemon.rb:61: Run at 2013-12-27 11:33:10 -0600
+2013-12-27 11:33:40.957089 memory_hog(68567) [DEBUG] memory_hog-daemon.rb:61: Run at 2013-12-27 11:33:40 -0600
+2013-12-27 11:34:11.273751 memory_hog(68567) [DEBUG] memory_hog-daemon.rb:61: Run at 2013-12-27 11:34:11 -0600
+2013-12-27 11:34:40.801574 memory_hog(68567) [DEBUG] memory_hog-daemon.rb:61: Run at 2013-12-27 11:34:40 -0600
+2013-12-27 11:35:10.895636 memory_hog(68567) [DEBUG] memory_hog-daemon.rb:61: Run at 2013-12-27 11:35:10 -0600
+2013-12-27 11:35:32.762565 memory_hog(68567) [INFO] [daemon-kit]: Running signal traps for INT
+2013-12-27 11:35:32.762789 memory_hog(68567) [INFO] [daemon-kit]: Running shutdown hooks
+2013-12-27 11:35:32.762910 memory_hog(68567) [WARN] [daemon-kit]: Shutting down memory_hog
+2013-12-27 13:00:26.14620 memory_hog(70516) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 13:00:26.14752 memory_hog(70516) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 13:00:26.14828 memory_hog(70516) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 13:00:26.14892 memory_hog(70516) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 13:00:26.14961 memory_hog(70516) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 13:00:26.15022 memory_hog(70516) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 13:00:26.17029 memory_hog(70516) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 13:00:26.18165 memory_hog(70516) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 13:10:28.25892 memory_hog(70516) [INFO] [daemon-kit]: Running signal traps for INT
+2013-12-27 13:10:28.26094 memory_hog(70516) [INFO] [daemon-kit]: Running shutdown hooks
+2013-12-27 13:10:28.26291 memory_hog(70516) [WARN] [daemon-kit]: Shutting down memory_hog
+2013-12-27 13:12:24.621646 memory_hog(70693) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 13:12:24.621777 memory_hog(70693) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 13:12:24.621860 memory_hog(70693) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 13:12:24.621927 memory_hog(70693) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 13:12:24.622009 memory_hog(70693) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 13:12:24.622072 memory_hog(70693) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 13:12:24.623680 memory_hog(70693) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 13:12:24.624584 memory_hog(70693) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 13:21:42.785913 memory_hog(70693) [INFO] [daemon-kit]: Running signal traps for INT
+2013-12-27 13:21:42.786051 memory_hog(70693) [INFO] [daemon-kit]: Running shutdown hooks
+2013-12-27 13:21:42.786148 memory_hog(70693) [WARN] [daemon-kit]: Shutting down memory_hog
+2013-12-27 13:21:56.428613 memory_hog(70961) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 13:21:56.428737 memory_hog(70961) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 13:21:56.428817 memory_hog(70961) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 13:21:56.428884 memory_hog(70961) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 13:21:56.428964 memory_hog(70961) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 13:21:56.429042 memory_hog(70961) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 13:21:56.430803 memory_hog(70961) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 13:21:56.431678 memory_hog(70961) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 13:32:48.159159 memory_hog(70961) [INFO] [daemon-kit]: Running signal traps for INT
+2013-12-27 13:32:48.159295 memory_hog(70961) [INFO] [daemon-kit]: Running shutdown hooks
+2013-12-27 13:32:48.159401 memory_hog(70961) [WARN] [daemon-kit]: Shutting down memory_hog
+2013-12-27 13:52:53.581634 memory_hog(87719) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 13:52:53.581771 memory_hog(87719) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 13:52:53.581844 memory_hog(87719) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 13:52:53.581908 memory_hog(87719) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 13:52:53.581972 memory_hog(87719) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 13:52:53.582036 memory_hog(87719) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 13:52:53.584917 memory_hog(87719) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 13:52:53.585832 memory_hog(87719) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 13:55:02.804064 memory_hog(87719) [INFO] [daemon-kit]: Running signal traps for INT
+2013-12-27 13:55:02.804260 memory_hog(87719) [INFO] [daemon-kit]: Running shutdown hooks
+2013-12-27 13:55:02.804499 memory_hog(87719) [WARN] [daemon-kit]: Shutting down memory_hog
+2013-12-27 13:55:45.266122 memory_hog(87782) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 13:55:45.266255 memory_hog(87782) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 13:55:45.266337 memory_hog(87782) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 13:55:45.266404 memory_hog(87782) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 13:55:45.266485 memory_hog(87782) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 13:55:45.266548 memory_hog(87782) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 13:55:45.268106 memory_hog(87782) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 13:55:45.268901 memory_hog(87782) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 14:06:15.635130 memory_hog(87782) [INFO] [daemon-kit]: Running signal traps for INT
+2013-12-27 14:06:15.635317 memory_hog(87782) [INFO] [daemon-kit]: Running shutdown hooks
+2013-12-27 14:06:15.635457 memory_hog(87782) [WARN] [daemon-kit]: Shutting down memory_hog
+2013-12-27 14:07:15.936570 memory_hog(87985) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 14:07:15.936702 memory_hog(87985) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 14:07:15.936788 memory_hog(87985) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 14:07:15.936868 memory_hog(87985) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 14:07:15.936945 memory_hog(87985) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 14:07:15.937011 memory_hog(87985) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 14:07:15.938703 memory_hog(87985) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 14:07:15.939499 memory_hog(87985) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 14:09:15.817416 memory_hog(87985) [INFO] [daemon-kit]: Running signal traps for INT
+2013-12-27 14:09:15.817702 memory_hog(87985) [INFO] [daemon-kit]: Running shutdown hooks
+2013-12-27 14:09:15.817840 memory_hog(87985) [WARN] [daemon-kit]: Shutting down memory_hog
+2013-12-27 14:12:16.7342 memory_hog(88114) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 14:12:16.7471 memory_hog(88114) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 14:12:16.7553 memory_hog(88114) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 14:12:16.7624 memory_hog(88114) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 14:12:16.7709 memory_hog(88114) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 14:12:16.7768 memory_hog(88114) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 14:12:16.9365 memory_hog(88114) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 14:12:16.10142 memory_hog(88114) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 14:13:29.116524 memory_hog(88114) [INFO] [daemon-kit]: Running signal traps for INT
+2013-12-27 14:13:29.116727 memory_hog(88114) [INFO] [daemon-kit]: Running shutdown hooks
+2013-12-27 14:13:29.116851 memory_hog(88114) [WARN] [daemon-kit]: Shutting down memory_hog
+2013-12-27 14:14:38.116524 memory_hog(88184) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 14:14:38.116663 memory_hog(88184) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 14:14:38.116756 memory_hog(88184) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 14:14:38.116834 memory_hog(88184) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 14:14:38.116908 memory_hog(88184) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 14:14:38.116974 memory_hog(88184) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 14:14:38.118575 memory_hog(88184) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 14:14:38.119366 memory_hog(88184) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 14:18:39.912542 memory_hog(88184) [INFO] [daemon-kit]: Running signal traps for INT
+2013-12-27 14:18:39.912708 memory_hog(88184) [INFO] [daemon-kit]: Running shutdown hooks
+2013-12-27 14:18:39.912881 memory_hog(88184) [WARN] [daemon-kit]: Shutting down memory_hog
+2013-12-27 14:29:09.779449 memory_hog(88639) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 14:29:09.779579 memory_hog(88639) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 14:29:09.779661 memory_hog(88639) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 14:29:09.779736 memory_hog(88639) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 14:29:09.779808 memory_hog(88639) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 14:29:09.779868 memory_hog(88639) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 14:29:09.781405 memory_hog(88639) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 14:29:09.782254 memory_hog(88639) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 14:30:39.558544 memory_hog(88639) [INFO] [daemon-kit]: Running signal traps for INT
+2013-12-27 14:30:39.558835 memory_hog(88639) [INFO] [daemon-kit]: Running shutdown hooks
+2013-12-27 14:30:39.559030 memory_hog(88639) [WARN] [daemon-kit]: Shutting down memory_hog
+2013-12-27 14:42:16.606970 memory_hog(89148) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 14:42:16.607099 memory_hog(89148) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 14:42:16.607178 memory_hog(89148) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 14:42:16.607243 memory_hog(89148) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 14:42:16.607324 memory_hog(89148) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 14:42:16.607385 memory_hog(89148) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 14:42:16.608940 memory_hog(89148) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 14:42:16.609721 memory_hog(89148) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 14:52:15.278974 memory_hog(89148) [INFO] [daemon-kit]: Running signal traps for INT
+2013-12-27 14:52:15.279196 memory_hog(89148) [INFO] [daemon-kit]: Running shutdown hooks
+2013-12-27 14:52:15.279341 memory_hog(89148) [WARN] [daemon-kit]: Shutting down memory_hog
+2013-12-27 14:53:31.823759 memory_hog(89427) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 14:53:31.823880 memory_hog(89427) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 14:53:31.823962 memory_hog(89427) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 14:53:31.824026 memory_hog(89427) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 14:53:31.824122 memory_hog(89427) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 14:53:31.824187 memory_hog(89427) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 14:53:31.825728 memory_hog(89427) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 14:53:31.826512 memory_hog(89427) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 15:03:06.784504 memory_hog(89427) [INFO] [daemon-kit]: Running signal traps for INT
+2013-12-27 15:03:06.784653 memory_hog(89427) [INFO] [daemon-kit]: Running shutdown hooks
+2013-12-27 15:03:06.784761 memory_hog(89427) [WARN] [daemon-kit]: Shutting down memory_hog
+2013-12-27 15:04:33.676284 memory_hog(89765) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 15:04:33.676417 memory_hog(89765) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 15:04:33.676493 memory_hog(89765) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 15:04:33.676558 memory_hog(89765) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 15:04:33.676624 memory_hog(89765) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 15:04:33.676708 memory_hog(89765) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 15:04:33.677952 memory_hog(89765) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 15:04:33.678701 memory_hog(89765) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 15:18:37.805238 memory_hog(90380) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 15:18:37.805374 memory_hog(90380) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 15:18:37.805458 memory_hog(90380) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 15:18:37.805535 memory_hog(90380) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 15:18:37.805611 memory_hog(90380) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 15:18:37.805676 memory_hog(90380) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 15:18:37.806765 memory_hog(90380) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 15:18:37.807799 memory_hog(90380) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 15:28:23.834498 memory_hog(90645) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 15:28:23.834641 memory_hog(90645) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 15:28:23.834720 memory_hog(90645) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 15:28:23.834789 memory_hog(90645) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 15:28:23.834859 memory_hog(90645) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 15:28:23.834926 memory_hog(90645) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 15:28:23.836101 memory_hog(90645) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 15:28:23.836840 memory_hog(90645) [INFO] [daemon-kit]: Starting rufus-scheduler
+2013-12-27 15:38:56.274280 memory_hog(90834) [INFO] [daemon-kit]: DaemonKit (0.2.3) booting in development mode
+2013-12-27 15:38:56.274420 memory_hog(90834) [INFO] [daemon-kit]: Setting up trap for USR1
+2013-12-27 15:38:56.274503 memory_hog(90834) [INFO] [daemon-kit]: Setting up trap for USR2
+2013-12-27 15:38:56.274580 memory_hog(90834) [INFO] [daemon-kit]: Setting up trap for HUP
+2013-12-27 15:38:56.274651 memory_hog(90834) [INFO] [daemon-kit]: Setting up trap for INT
+2013-12-27 15:38:56.274720 memory_hog(90834) [INFO] [daemon-kit]: Setting up trap for TERM
+2013-12-27 15:38:56.275854 memory_hog(90834) [INFO] [daemon-kit]: DaemonKit (0.2.3) booted, now running memory_hog
+2013-12-27 15:38:56.276576 memory_hog(90834) [INFO] [daemon-kit]: Starting rufus-scheduler
